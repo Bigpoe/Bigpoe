@@ -20,6 +20,8 @@ I work as a QA Engineer based on Jalisco, Mwxico and I help teams designing and 
 You can find me on the following social platforms :D
 
 
-[Twitter](https://twitter.com/Bigpoe_)
-[LinkedIn](https://www.linkedin.com/in/pedro-p%C3%A9rez-islas-8496059a/)
-[Medium](https://medium.com/@Bigpoe_)
+<a href="https://twitter.com/Bigpoe_" target="_blank">Twitter</a>
+
+<a href="https://www.linkedin.com/in/pedro-p%C3%A9rez-islas-8496059a/" target="_blank">LinkedIn</a>
+
+<a href="https://medium.com/@Bigpoe_" target="_blank">Medium</a>
