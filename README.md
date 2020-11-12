@@ -14,8 +14,6 @@ I work as a QA Engineer based on Jalisco, Mwxico and I help teams designing and 
 
 ### Social
 
----
-
 You can find me on the following social platforms :D
 
 
