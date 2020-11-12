@@ -1,6 +1,5 @@
 ## Hello there! I'm Pedro
 
----
 
 <!-- I work as a QA engineer based in Jalisco, Mexico. -->
 
