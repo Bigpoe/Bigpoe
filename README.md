@@ -4,7 +4,7 @@
 <!-- I work as a QA engineer based in Jalisco, Mexico. -->
 
 
-I work as a QA Engineer based on Jalisco, Mwxico and I help teams designing and implementing test strategies and testing processes adding value to the team and the product. 
+I work as a QA Engineer based on Jalisco, Mexico and I help teams designing and implementing test strategies and testing processes adding value to the team and the product. 
 <!-- I enjoy using Python to build small projects -->
 
 
